@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <iomanip>
-#include <cmath>  // ком
+#include <cmath>  
 #include "windows.h"
 
 using namespace std;
